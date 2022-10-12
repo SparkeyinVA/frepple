@@ -3,7 +3,7 @@ Modeling concepts
 =================
 
 Before you start your journey to load your data in frePPLe, we need to 
-explain you a few modeling basics.
+explain to you a few modeling basics.
 
 Concepts as items, locations, customers, demands... don’t need a much of
 an introduction. But, some other concepts need some introduction before you
